@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="C++">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/Platform-Windows-brightgreen.svg" alt="Windows">
-  <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat" alt="Status">
+  <img src="https://img.shields.io/badge/Version-0.1.0-blue?style=flat" alt="Version">
 </p>
 
 **FPVKamikazeDrone-ServerModFramework** - это мощный и легкий фреймворк, разработанный специально для создания серверных модификаций к игре *FPVKamikazeDrone*. 
