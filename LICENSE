@@ -1,57 +1,45 @@
-# License / Лицензия
+Вот «чистый» текст лицензии без разметки и тегов. Просто скопируй этот текст и замени им содержимое файла LICENSE в своем репозитории.
 
-<details>
-<summary><b>🇺🇸 English Version</b></summary>
-
-## FPVKamikazeDrone-ServerModFramework License Agreement
-
-### 1. License Conditions
+FPVKamikazeDrone-ServerModFramework License Agreement
+License Conditions
 Use of this software (hereinafter "Framework") is governed by this agreement. Using the Framework implies unconditional acceptance of all terms herein.
 
-### 2. Attribution
+Attribution
 The server owner must include author attribution (a link to the official Framework repository) in all public server descriptions, promotional materials, and media posts.
 
-### 3. Technical Management (Kill Switch)
+Technical Management (Kill Switch)
 The author reserves the right to use technical means for remote management of servers using the Framework. In case of violations, the author will send a notice to the server owner. The owner is granted 24 hours to resolve the issue. If ignored or repeated, the author reserves the right to force-stop the Framework (Kill Switch).
 
-### 4. Commercial Use & Anti-Resale
+Commercial Use & Anti-Resale
 Any sale, resale, leasing, or providing paid access to the Framework or its components is strictly prohibited. The Framework is intended for non-commercial or pre-approved projects only.
 
-### 5. Identification (API Keys)
+Identification (API Keys)
 Each server instance must use a unique identifier (API key) issued by the author. Use of the Framework without a valid key is prohibited. The author reserves the right to revoke specific keys.
 
-### 6. Reverse Engineering & Security
+Reverse Engineering & Security
 Reverse engineering for educational analysis of security/stability is permitted. However, distributing modified versions, using dumpers to bypass licensing, or commercializing the results of such analysis is strictly prohibited.
 
-### 7. Liability & Diagnostics
+Liability & Diagnostics
 The software is provided "as is". The author is not liable for server instability or crashes. The Framework may collect anonymous technical data regarding crashes and errors to improve stability. No personal data (IPs, user info) is collected.
 
-</details>
-
-<details>
-<summary><b>🇷🇺 Русская версия</b></summary>
-
-## Лицензионное соглашение FPVKamikazeDrone-ServerModFramework
-
-### 1. Условия использования
+Лицензионное соглашение FPVKamikazeDrone-ServerModFramework
+Условия использования
 Использование данного программного обеспечения (далее — «Фреймворк») регулируется настоящим соглашением. Использование Фреймворка означает безусловное согласие со всеми пунктами.
 
-### 2. Атрибуция
+Атрибуция
 Владелец сервера обязан указывать авторство (ссылку на официальный репозиторий Фреймворка) во всех публичных описаниях сервера, рекламных материалах и постах в медиаресурсах.
 
-### 3. Удаленное управление (Kill Switch)
+Удаленное управление (Kill Switch)
 Автор оставляет за собой право на техническое управление серверами. В случае нарушений, автор направляет уведомление владельцу. Владельцу предоставляется 24 часа на исправление. В случае игнорирования или повторных нарушений автор оставляет за собой право принудительной остановки работы Фреймворка на узле.
 
-### 4. Запрет на перепродажу
+Запрет на перепродажу
 Любая продажа, перепродажа, аренда или предоставление платного доступа к Фреймворку запрещены. Фреймворк предназначен для некоммерческого использования или согласованных проектов.
 
-### 5. Идентификация (API-ключи)
+Идентификация (API-ключи)
 Каждая инстанция сервера обязана использовать уникальный идентификатор (API-ключ), выданный автором. Использование без ключа запрещено. Автор имеет право аннулировать конкретный ключ.
 
-### 6. Реверс-инжиниринг и безопасность
+Реверс-инжиниринг и безопасность
 Изучение кода в образовательных целях разрешено. Однако распространение модифицированных версий, использование дамперов для обхода механизмов лицензирования или коммерческое использование результатов анализа строго запрещено.
 
-### 7. Ответственность и диагностика
+Ответственность и диагностика
 ПО предоставляется «как есть». Автор не несет ответственности за сбои или краши. Фреймворк собирает анонимные технические данные о крашах для улучшения стабильности. Личные данные (IP, информация о пользователях) не собираются.
-
-</details>
