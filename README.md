@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="C++">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/Platform-Windows-brightgreen.svg" alt="Windows">
   <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status">
 </p>
