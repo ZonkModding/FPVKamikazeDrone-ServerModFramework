@@ -1,4 +1,4 @@
-# FPVKamikazeDrone-ServerModFramework
+# FPVKamikazeDrone-ServerModFramework (Quasar)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="C++">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat" alt="License">
 </p>
 
-**FPVKamikazeDrone-ServerModFramework** - это мощный и легкий фреймворк, разработанный специально для создания серверных модификаций к игре *FPVKamikazeDrone*. 
+**FPVKamikazeDrone-ServerModFramework (Quasar)** - это мощный и легкий фреймворк, разработанный специально для создания серверных модификаций к игре *FPVKamikazeDrone*. 
 
 Он предоставляет готовый проект для разработки собственных игровых плагинов, обеспечивая быструю интеграцию и полную гибкость в управлении функционалом сервера.
 
