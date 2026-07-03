@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="QuasarCoreLib/QuasarCoreLib.vcxproj" Id="7ba436ae-01e1-433e-a0d5-cdaec0661d42" />
+  <Project Path="QuasarModulesLib/QuasarModulesLib.vcxproj" Id="599c191a-d363-4759-a67c-6daafa95bdb8" />
+  <Project Path="QuasarProxyLib/Quasar.vcxproj" Id="9e82a421-f6a6-4775-b8b6-3e82641ca0c2" />
+</Solution>

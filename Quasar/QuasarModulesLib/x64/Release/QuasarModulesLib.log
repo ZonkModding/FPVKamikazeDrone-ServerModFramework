@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library D:\progects\Quasar_New\Quasar\x64\Release\QuasarModulesLib.lib and object D:\progects\Quasar_New\Quasar\x64\Release\QuasarModulesLib.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 562 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QuasarModulesLib.vcxproj -> D:\progects\Quasar_New\Quasar\x64\Release\QuasarModulesLib.dll

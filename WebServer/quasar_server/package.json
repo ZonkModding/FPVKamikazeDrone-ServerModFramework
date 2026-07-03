@@ -1,0 +1,13 @@
+{
+  "name": "quasar_server",
+  "version": "1.0.0",
+  "description": "Quasar Licensing Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "fastify start -l info index.js"
+  },
+  "dependencies": {
+    "fastify": "^5.8.5"
+  }
+}

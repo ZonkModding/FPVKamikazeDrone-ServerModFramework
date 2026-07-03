@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+	<ProjectConfiguration Include="Release|x64">
+	  <Configuration>Release</Configuration>
+	  <Platform>x64</Platform>
+	</ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+	<VCProjectVersion>18.0</VCProjectVersion>
+	<Keyword>Win32Proj</Keyword>
+	<ProjectGuid>{b2c3d4e5-f6a7-4890-b1c2-d3e4f5a6b7c8}</ProjectGuid>
+	<RootNamespace>LoggerModule</RootNamespace>
+	<WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+	<ConfigurationType>DynamicLibrary</ConfigurationType>
+	<UseDebugLibraries>false</UseDebugLibraries>
+	<PlatformToolset>v145</PlatformToolset>
+	<WholeProgramOptimization>true</WholeProgramOptimization>
+	<CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+	<ClCompile>
+	  <WarningLevel>Level3</WarningLevel>
+	  <FunctionLevelLinking>true</FunctionLevelLinking>
+	  <IntrinsicFunctions>true</IntrinsicFunctions>
+	  <SDLCheck>true</SDLCheck>
+	  <PreprocessorDefinitions>NDEBUG;LOGGERMODULE_EXPORTS;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+	  <ConformanceMode>true</ConformanceMode>
+	  <LanguageStandard>stdcpp20</LanguageStandard>
+	</ClCompile>
+	<Link>
+	  <SubSystem>Windows</SubSystem>
+	  <EnableUAC>false</EnableUAC>
+	  <OptimizeReferences>true</OptimizeReferences>
+	  <EnableCOMDATFolding>true</EnableCOMDATFolding>
+	</Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+	<ClInclude Include="framework.h" />
+  </ItemGroup>
+  <ItemGroup>
+	<ClCompile Include="dllmain.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+</Project>
